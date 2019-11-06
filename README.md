@@ -1,6 +1,6 @@
 # afterEvent
 
-An one time usage for `await` after event trigger, in the other words, promisify the event handler!
+`await` after event trigger just once, like promise finite state machine and self clean up.
 
 ## Usage
 
