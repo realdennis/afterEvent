@@ -6,7 +6,7 @@ An one time usage for `await` after event trigger, in the other words, promisify
 
 ```javascript
 // in some async function
-import afterEvent from '@realdennis/afterEvent';
+import afterEvent from '@realdennis/after-event';
 
 // thenable usage
 afterEvent('load', document).then(() => {
